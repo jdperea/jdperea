@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Perea</h1>
 <h3 align="center">I'm apassionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **Arduino**
 
 - 💬 Ask me about **PHP, HTML5, JavaScript, Css**
 
