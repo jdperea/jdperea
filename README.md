@@ -21,7 +21,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" /> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.redhat.com/cms/managed-files/tux-327x360.png" alt="linux" width="40" /> </a> 
   <a href="https://www.php.net" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="80" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="80" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="80"/> </a> 
   <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/images/logos/header-logo.svg" alt="symfony" width="80" height="40"/> </a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdperea&show_icons=true&theme=aura_dark&count_private=true)
